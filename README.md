@@ -1,2 +1,2 @@
 # inventory-barang
-project inventori barang di githun
+project inventori barang di github
